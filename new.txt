@@ -1,1 +1,2 @@
 My new staging repo
+This is my new repo
